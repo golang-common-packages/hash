@@ -6,7 +6,7 @@ package main
 import (
     "fmt"
 
-    "github.com/golang-common-packages/template/common/util/hash"
+    "github.com/golang-common-packages/hash"
 )
 
 func main() {
